@@ -3,4 +3,4 @@ second_number = 2
 sum = 6
 difference = 2
 product = 8
-ineq
+quotient = 2
